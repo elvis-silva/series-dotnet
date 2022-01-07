@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z23j/dZKsc40kAsHipavYc1fdR8uO3Ty18FcVn/ZgJeQGLw0n0o+dpbMVPbAtLGZOrh0pClsDNV3V4Kyv/AYVA==",
+  "success": true,
+  "projectFilePath": "/home/elvis/Dio/series-dotnet/Series.csproj",
+  "expectedPackageFiles": [
+    "/home/elvis/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
